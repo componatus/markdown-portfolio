@@ -1,5 +1,5 @@
-[ ] running
-[ ] coffee
-[ ] music
-[ ] books
-[ ] travel
+- running
+- coffee
+- music
+- books
+- travel
